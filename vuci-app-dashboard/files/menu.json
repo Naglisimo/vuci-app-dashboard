@@ -1,0 +1,7 @@
+{
+    "system/dashboard": {
+        "title": "Dashboard",
+        "view": "vuci-app-dashboard",
+        "index": 15
+    }
+}
